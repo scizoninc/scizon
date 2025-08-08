@@ -17,10 +17,9 @@ const Download: React.FC = () => (
       <div className="w-full md:w-1/2 order-2 flex justify-center md:justify-end">
         <div className="flex flex-col justify-center">
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-gray-900 dark:text-white mb-4">
-            Download our app
+            Advanced Data start here!
           </h2>
           <p className="text-xl text-gray-800 dark:text-gray-300 mb-6 font-light">
-            Download the state of the art app and start saving time and money. More to come.
           </p>
           <div className="flex space-x-4">
             <Link
