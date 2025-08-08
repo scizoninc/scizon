@@ -15,9 +15,9 @@ interface ReviewsProps {
 const defaultReviews: ReviewData[] = [
   {
     rating: 5,
-    title: "Best app ever!",
+    title: "Perfect AI for data!",
     content:
-      "This app has been a game-changer for me! It's made tracking my daily activities so much easier. I love how intuitive and user-friendly it is.",
+      "This data has been a game-changer for me! It's made tracking my projects so much easier. I love how intuitive and user-friendly it is.",
     author: "Jonas Aly",
     designation: "Founder @ Company",
   },
@@ -25,21 +25,21 @@ const defaultReviews: ReviewData[] = [
     rating: 5,
     title: "Super helpful to stay organized",
     content:
-      "I can't thank this app enough for helping me stay on top of my tasks. The reminders have saved me from missing important deadlines, and I'm much more organized now.",
+      "I can't thank Scizon enough for helping me stay on top of my tasks. The reminders have saved me from missing important deadlines, and I'm much more organized now.",
     author: "Mark Bures",
     designation: "Businessman",
   },
   {
     rating: 5,
-    title: "Great app that saves time",
+    title: "Great AI that saves time",
     content:
-      "The app's integration with my other tools is seamless. I can easily check my progress and activities without having to switch between multiple platforms.",
+      "The AI integration with my other tools is seamless. I can easily check my progress and activities without having to switch between multiple platforms.",
     author: "William Kolas",
     designation: "Student",
   },
   {
     rating: 4,
-    title: "Seriously life changing app!",
+    title: "Seriously life changing AI!",
     content:
       "The insights and reports have been eye-opening. I now have a better understanding of my habits and can make adjustments to improve my productivity.",
     author: "Andrew Chan",

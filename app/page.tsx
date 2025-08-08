@@ -20,11 +20,11 @@ export default function Page() {
           leftHalf={
             <>
               <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-gray-900 dark:text-white mb-4">
-                Effortlessly highlight the key features of your app
+                Effortlessly highlight the key insights of your data
               </h2>
               <p className="text-xl font-light">
-                Our app makes it easy to showcase your key features. With customizable sections, you can highlight the
-                most important aspects of your product. More to come.
+                Our data makes it easy to showcase. With customizable visualizations, you can highlight the
+                most important aspects of your data. More to come.
               </p>
             </>
           }
@@ -41,8 +41,8 @@ export default function Page() {
                 Highlight the key features
               </h2>
               <p className="text-xl font-light">
-                Talk about some of the key features of your app that you want to highlight. Use the beautiful accordion
-                to highlight the key features of your app.
+                Talk about some of the key features of your project that you want to highlight. Use the beautiful accordion
+                to highlight the key features of your project.
               </p>
             </div>
           }
